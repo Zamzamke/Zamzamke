@@ -2,7 +2,7 @@
  I'm Zamzam,a Software developer from Nairobi.I'm currently learning Python.
 
 ## Skills and Tools
-Skills: C, Python, HTML, CSS\n
+Skills: C, Python, HTML, CSS
 Tools: Git, Github, VS Code, Linux
 # Current Status Quo
 - 🌱 I’m currently learning Python
