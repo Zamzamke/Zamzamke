@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello World! 👋
  I'm Zamzam,a Software developer from Nairobi.I'm currently learning Python.
+
+## Skills
+C, Python, HTML, CSS
+## Tools
+Git, Github, VS Code, Linux
 
 <!--
 **Zamzamke/Zamzamke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
