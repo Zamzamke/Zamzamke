@@ -1,4 +1,4 @@
-## Hello World! 👋
+## Hi 👋
  I'm Zamzam,a Software developer from Nairobi.I'm currently learning Python.
 
 ## Skills and Tools
