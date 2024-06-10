@@ -2,11 +2,11 @@
  I'm Zamzam,a Software developer from Nairobi.I'm currently learning Python.
 
 ## Skills and Tools
-Skills: C, Python, HTML, CSS
+Skills: C, Python, HTML, CSS,
 
 Tools: Git, Github, VS Code, Linux
 # Current Status Quo
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning about APIs and servers
 - 💬 Ask me about C programming and Python
 - 📫 Reach me via email: zamzamchelimo@gmail.com
 <!--
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with APIs
 - 💬 Ask me about ...
 - 📫 Reach me via 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact:I love to dance salsa
 -->
