@@ -2,7 +2,7 @@
  I'm Zamzam,a Software developer student from Nairobi.
 
 ## Skills and Tools
-Skills: C, Python, HTML, CSS,
+Skills: C, Python, HTML, CSS,JavaScript
 
 Tools: Git, Github, VS Code, Linux
 # Current Status Quo
