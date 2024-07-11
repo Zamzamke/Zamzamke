@@ -1,15 +1,15 @@
 ## Hi 👋
- I'm Zamzam,a Software developer student from Nairobi.
+ I'm Zamzam,a Software Engineering student from Nairobi.
 
 ## Skills and Tools
 Skills: C, Python, HTML, CSS,JavaScript
 
 Tools: Git, Github, VS Code, Linux
 # Current Status Quo
-- 🌱 I’m currently learning about APIs and servers
-- 🤔 I’m looking for help with APIs
+- 🌱 I’m currently learning React
+- 🤔 I’m looking for help with APIs,Databases
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:I love to dance salsa
+- ⚡ Fun fact about me:I love to dance salsa
 - 💬 Ask me about C programming and Python
 - 📫 Reach me via email: zamzamchelimo@gmail.com
 <!--
