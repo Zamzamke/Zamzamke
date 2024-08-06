@@ -9,7 +9,6 @@ Tools: Git, Github, VS Code, Linux
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with APIs,Databases
 - 😄 Pronouns: she/her
-- ⚡ Fun fact about me:I love to dance salsa
 - 💬 Ask me about C programming and Python
 - 📫 Reach me via email: zamzamchelimo@gmail.com
 <!--
